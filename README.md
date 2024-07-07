@@ -23,4 +23,6 @@ Website:- tarunjain.me
 ![](https://github-profile-trophy.vercel.app/?username=noodulf&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+
+![Recently played](https://spotify-recently-played-readme.vercel.app/api?user=l2hl72kynpf0avy6rzwptytg7&count=1)<br>
 [![](https://visitcount.itsvg.in/api?id=noodulf&label=Profile%20Views&color=11&icon=5&pretty=false)](https://visitcount.itsvg.in)
