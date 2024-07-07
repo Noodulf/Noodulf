@@ -4,7 +4,7 @@
 
 <br><br>
 Email:- jaintarun926@gmail.com<br>
-Website:- tarunjain.me
+Website:- <a href="tarunjain.me" target="_blank">tarunjain.me</a>
 
 <br><br>- 🔭 I’m currently working on a website for a client<br>- 🌱 I’m currently learning about sockets and web scraping
 
