@@ -1,4 +1,4 @@
-<img src="/readme.png" width="100%">
+<img src="/readme.png" style="width:100%;">
 
 ## Hello, world! I am Tarun Jain, a fullstack developer with a passion of constantly creating things. I can develope, design and code cool stuff with almost no fatigue in the process. Hit me up on my socials or mail me to interact. I would love to have a chat with you about anything.
 
