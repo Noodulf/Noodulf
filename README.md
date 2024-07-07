@@ -1,3 +1,5 @@
+<img src="/readme.png">
+
 ## Hello, world!<br><br>- 🔭 I’m currently working on a website for a client<br>- 🌱 I’m currently learning about sockets and web scraping
 
 
