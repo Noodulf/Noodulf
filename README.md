@@ -1,6 +1,11 @@
 <img src="/readme.png">
 
 ## Hello, world! I am Tarun Jain, a fullstack developer with a passion of constantly creating things. I can develope, design and code cool stuff with almost no fatigue in the process. Hit me up on my socials or mail me to interact. I would love to have a chat with you about anything.
+
+<br><br>
+Email:- jaintarun926@gmail.com
+Website:- tarunjain.me
+
 <br><br>- 🔭 I’m currently working on a website for a client<br>- 🌱 I’m currently learning about sockets and web scraping
 
 
